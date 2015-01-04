@@ -4,7 +4,7 @@
 # Defines general utility functions.
 
 # Installs NPM packages.
-function install_packages() {
+install_packages() {
   if [[ -f "$PACKAGES_SOURCE_PATH" ]]; then
     printf "Installing packages...\n"
 
