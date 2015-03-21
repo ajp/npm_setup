@@ -6,7 +6,6 @@
 --global kss
 
 # Development
---global katon
 --global failing-code
 --global node-offline-debug
 
