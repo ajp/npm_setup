@@ -15,19 +15,20 @@ Installs the following packages (only if not already installed):
 - Documentation
     - [KSS](http://warpspire.com/kss)
 - Development
-    - [Katon](https://github.com/typicode/katon)
     - [Failing Code](https://www.npmjs.org/package/failing-code)
     - [Node Offline Debug](https://github.com/HPSoftware/node-offline-debug)
 - Graphics
     - [imacss](https://github.com/akoenig/imacss)
     - [SVGO](https://github.com/svg/svgo)
+    - [TMI](https://github.com/addyosmani/tmi)
 - Assets
     - [Grunt](http://gruntjs.com)
     - [Broccoli](https://github.com/joliss/broccoli)
-    - [Bower](http://bower.io)
     - [UnCSS](https://github.com/giakki/uncss)
 - Testing
     - [pageres](https://github.com/sindresorhus/pageres)
+- Utilities
+    - [hget](https://github.com/bevacqua/hget)
 
 # Requirements
 
@@ -43,7 +44,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/npm_setup.git
     cd npm_setup
-    git checkout v0.4.0
+    git checkout v0.5.0
 
 Master Version (unstable):
 

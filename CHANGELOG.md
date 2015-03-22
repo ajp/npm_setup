@@ -1,3 +1,11 @@
+# v0.5.0 (2015-03-22)
+
+- Removed the Katon package.
+- Removed the Bower package.
+- Added the [TMI](https://github.com/addyosmani/tmi) package.
+- Added the [hget](https://github.com/bevacqua/hget) package.
+- Refactored shell scripts to remove deprecated function definition.
+
 # v0.4.0 (2014-11-02)
 
 - Fixed install of packages.
