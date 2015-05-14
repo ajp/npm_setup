@@ -8,6 +8,7 @@
 # Development
 --global failing-code
 --global node-offline-debug
+--global jscs
 
 # Graphics
 --global imacss
