@@ -1,3 +1,9 @@
+# v0.6.0 (2015-06-07)
+
+- Fixed hanging script with invalid option.
+- Added code of conduct documentation.
+- Added the [JSCS](http://jscs.info) package.
+
 # v0.5.0 (2015-03-22)
 
 - Removed the Katon package.

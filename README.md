@@ -17,6 +17,7 @@ Installs the following packages (only if not already installed):
 - Development
     - [Failing Code](https://www.npmjs.org/package/failing-code)
     - [Node Offline Debug](https://github.com/HPSoftware/node-offline-debug)
+    - [JSCS](http://jscs.info)
 - Graphics
     - [imacss](https://github.com/akoenig/imacss)
     - [SVGO](https://github.com/svg/svgo)
@@ -44,7 +45,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/npm_setup.git
     cd npm_setup
-    git checkout v0.5.0
+    git checkout v0.6.0
 
 Master Version (unstable):
 
@@ -96,4 +97,4 @@ Read the [CHANGELOG](CHANGELOG.md) for details.
 
 # Credits
 
-Developed by [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io)
+Developed by [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io).
