@@ -4,6 +4,7 @@
 
 # Documentation
 --global kss
+--global doctoc
 
 # Development
 --global failing-code
