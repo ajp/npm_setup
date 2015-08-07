@@ -1,7 +1,5 @@
 # NPM Setup
 
-[![Gittip](http://img.shields.io/gittip/bkuhlmann.svg)](https://www.gittip.com/bkuhlmann)
-
 Shell scripts for the installation of commonly used NPM packages.
 
 Sometimes, when setting up a new machine, there is a need for automating the install of commonly used packages
