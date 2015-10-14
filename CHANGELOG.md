@@ -1,3 +1,9 @@
+# v0.7.0 (2015-10-14)
+
+- Added [Bower](http://bower.io) package.
+- Added [Ember CLI](https://github.com/ember-cli/ember-cli) package.
+- Added [doctoc](https://github.com/thlorenz/doctoc) package.
+
 # v0.6.0 (2015-06-07)
 
 - Fixed hanging script with invalid option.

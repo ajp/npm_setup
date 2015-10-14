@@ -29,6 +29,9 @@ Installs the following packages (only if not already installed):
 
 - Documentation
     - [KSS](http://warpspire.com/kss)
+    - [doctoc](https://github.com/thlorenz/doctoc)
+- Frameworks
+    - [Ember CLI](https://github.com/ember-cli/ember-cli)
 - Development
     - [Failing Code](https://www.npmjs.org/package/failing-code)
     - [Node Offline Debug](https://github.com/HPSoftware/node-offline-debug)
@@ -41,6 +44,7 @@ Installs the following packages (only if not already installed):
     - [Grunt](http://gruntjs.com)
     - [Broccoli](https://github.com/joliss/broccoli)
     - [UnCSS](https://github.com/giakki/uncss)
+    - [Bower](http://bower.io)
 - Testing
     - [pageres](https://github.com/sindresorhus/pageres)
 - Utilities
@@ -60,7 +64,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/npm_setup.git
     cd npm_setup
-    git checkout v0.6.0
+    git checkout v0.7.0
 
 Master Version (unstable):
 
