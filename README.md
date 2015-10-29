@@ -1,5 +1,7 @@
 # NPM Setup
 
+[![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/bkuhlmann)
+
 Shell scripts for the installation of commonly used NPM packages.
 
 Sometimes, when setting up a new machine, there is a need for automating the install of commonly used packages
