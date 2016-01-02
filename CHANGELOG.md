@@ -1,3 +1,13 @@
+# v0.8.0 (2016-01-02)
+
+- Added Patreon badge to README.
+- Added [WOPR](https://github.com/yaronn/wopr) package.
+- Updated Code of Conduct 1.3.0.
+- Updated README with Tocer generated Table of Contents.
+- Removed Bower support.
+- Removed DocToc support.
+- Removed KSS support.
+
 # v0.7.0 (2015-10-14)
 
 - Added [Bower](http://bower.io) package.

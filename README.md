@@ -29,9 +29,6 @@ can be installed via a single command.
 
 Installs the following packages (only if not already installed):
 
-- Documentation
-    - [KSS](http://warpspire.com/kss)
-    - [doctoc](https://github.com/thlorenz/doctoc)
 - Frameworks
     - [Ember CLI](https://github.com/ember-cli/ember-cli)
 - Development
@@ -46,9 +43,10 @@ Installs the following packages (only if not already installed):
     - [Grunt](http://gruntjs.com)
     - [Broccoli](https://github.com/joliss/broccoli)
     - [UnCSS](https://github.com/giakki/uncss)
-    - [Bower](http://bower.io)
 - Testing
     - [pageres](https://github.com/sindresorhus/pageres)
+- Metrics
+    - [WOPR](https://github.com/yaronn/wopr)
 - Utilities
     - [hget](https://github.com/bevacqua/hget)
 
@@ -66,7 +64,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/npm_setup.git
     cd npm_setup
-    git checkout v0.7.0
+    git checkout v0.8.0
 
 Master Version (unstable):
 
