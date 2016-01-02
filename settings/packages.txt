@@ -23,5 +23,8 @@
 # Testing
 --global pageres
 
+# Metrics
+--global wopr
+
 # Utilities
 --global hget
