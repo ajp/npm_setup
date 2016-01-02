@@ -2,9 +2,6 @@
 # NPM Packages #
 #--------------#
 
-# Documentation
---global kss
-
 # Frameworks
 --global ember-cli
 
