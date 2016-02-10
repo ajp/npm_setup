@@ -9,6 +9,7 @@
 --global failing-code
 --global node-offline-debug
 --global jscs
+--global elm-oracle
 
 # Graphics
 --global imacss
