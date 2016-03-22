@@ -1,3 +1,10 @@
+# v0.9.0 (2016-03-21)
+
+- Fixed contributing guideline links.
+- Added GitHub issue and pull request templates.
+- Added [Elm Oracle](https://github.com/ElmCast/elm-oracle) package.
+- Updated to Code of Conduct, Version 1.4.0.
+
 # v0.8.0 (2016-01-02)
 
 - Added Patreon badge to README.

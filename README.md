@@ -35,6 +35,7 @@ Installs the following packages (only if not already installed):
     - [Failing Code](https://www.npmjs.org/package/failing-code)
     - [Node Offline Debug](https://github.com/HPSoftware/node-offline-debug)
     - [JSCS](http://jscs.info)
+    - [Elm Oracle](https://github.com/ElmCast/elm-oracle)
 - Graphics
     - [imacss](https://github.com/akoenig/imacss)
     - [SVGO](https://github.com/svg/svgo)
@@ -64,7 +65,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/npm_setup.git
     cd npm_setup
-    git checkout v0.8.0
+    git checkout v0.9.0
 
 Master Version (unstable):
 
