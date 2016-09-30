@@ -4,9 +4,9 @@
 
 Shell scripts for the installation of commonly used NPM packages.
 
-Sometimes, when setting up a new machine, there is a need for automating the install of commonly used packages
-(i.e. setting up your toolbox). This solves that problem by providing a master list of commonly used packages which
-can be installed via a single command.
+Sometimes, when setting up a new machine, there is a need for automating the install of commonly
+used packages (i.e. setting up your toolbox). This solves that problem by providing a master list of
+commonly used packages which can be installed via a single command.
 
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 
@@ -29,8 +29,6 @@ can be installed via a single command.
 
 Installs the following packages (only if not already installed):
 
-- Frameworks
-    - [Ember CLI](https://github.com/ember-cli/ember-cli)
 - Development
     - [Failing Code](https://www.npmjs.org/package/failing-code)
     - [Node Offline Debug](https://github.com/HPSoftware/node-offline-debug)
@@ -53,9 +51,7 @@ Installs the following packages (only if not already installed):
 
 # Requirements
 
-- [OSX](http://www.apple.com/osx)
-- [Git](http://git-scm.com)
-- [NPM](https://www.npmjs.org)
+- [macOS](https://github.com/bkuhlmann/osx)
 
 # Setup
 
@@ -63,19 +59,19 @@ Open a terminal window and execute one of the following depending on your versio
 
 Current Version (stable):
 
-    git clone git://github.com/bkuhlmann/npm_setup.git
+    git clone https://github.com/bkuhlmann/npm_setup.git
     cd npm_setup
-    git checkout v0.9.0
+    git checkout v1.0.0
 
 Master Version (unstable):
 
-    git clone git://github.com/bkuhlmann/npm_setup.git
+    git clone https://github.com/bkuhlmann/npm_setup.git
     cd npm_setup
 
 # Usage
 
-Edit the settings/packages.txt as you see fit. Blank lines and lines that begin with '#' will be ignored.
-Then open a terminal window to execute the following command:
+Edit the settings/packages.txt as you see fit. Blank lines and lines that begin with '#' will be
+ignored. Then open a terminal window to execute the following command:
 
     ./run.sh
 
@@ -99,8 +95,8 @@ Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 
 # Code of Conduct
 
-Please note that this project is released with a [CODE OF CONDUCT](CODE_OF_CONDUCT.md). By participating in this project
-you agree to abide by its terms.
+Please note that this project is released with a [CODE OF CONDUCT](CODE_OF_CONDUCT.md). By
+participating in this project you agree to abide by its terms.
 
 # Contributions
 

@@ -1,3 +1,8 @@
+# v1.0.0 (2016-09-30)
+
+- Updated GitHub issue and pull request templates.
+- Removed Ember CLI package.
+
 # v0.9.0 (2016-03-21)
 
 - Fixed contributing guideline links.
