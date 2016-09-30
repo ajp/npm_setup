@@ -2,9 +2,6 @@
 # NPM Packages #
 #--------------#
 
-# Frameworks
---global ember-cli
-
 # Development
 --global failing-code
 --global node-offline-debug
