@@ -1,3 +1,9 @@
+# v2.0.0 (2016-10-11)
+
+- Fixed Bash script header to dynamically load correct environment.
+- Removed `run.sh` (use `bin/run` instead).
+- Refactored run scripts to use break statements.
+
 # v1.0.0 (2016-09-30)
 
 - Updated GitHub issue and pull request templates.

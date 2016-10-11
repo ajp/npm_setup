@@ -61,7 +61,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/npm_setup.git
     cd npm_setup
-    git checkout v1.0.0
+    git checkout v2.0.0
 
 Master Version (unstable):
 
@@ -70,10 +70,10 @@ Master Version (unstable):
 
 # Usage
 
-Edit the settings/packages.txt as you see fit. Blank lines and lines that begin with '#' will be
+Edit the `settings/packages.txt` as you see fit. Blank lines and lines that begin with '#' will be
 ignored. Then open a terminal window to execute the following command:
 
-    ./run.sh
+    bin/run
 
 Running the script will present the following options:
 
@@ -82,8 +82,8 @@ Running the script will present the following options:
 
 Choose option 'i' to install.
 
-The options prompt can be skipped by passing the desired option directly to the run.sh script.
-For example, executing "./run.sh i" will execute the install.
+The options prompt can be skipped by passing the desired option directly to the `bin/run` script.
+For example, executing "bin/run i" will execute the install.
 
 # Versioning
 
@@ -114,4 +114,5 @@ Built with [Bashsmith](https://github.com/bkuhlmann/bashsmith).
 
 # Credits
 
-Developed by [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io).
+Developed by [Brooke Kuhlmann](https://www.alchemists.io) at
+[Alchemists](https://www.alchemists.io).
