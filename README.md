@@ -51,7 +51,7 @@ Installs the following packages (only if not already installed):
 
 # Requirements
 
-- [macOS](https://github.com/bkuhlmann/osx)
+- [macOS](https://github.com/bkuhlmann/mac_os)
 
 # Setup
 
