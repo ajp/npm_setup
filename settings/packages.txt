@@ -7,6 +7,7 @@
 --global node-offline-debug
 --global jscs
 --global elm-oracle
+--global elm-format
 
 # Graphics
 --global imacss
