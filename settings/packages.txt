@@ -2,27 +2,27 @@
 # NPM Packages #
 #--------------#
 
-# Development
---global failing-code
---global node-offline-debug
---global jscs
---global elm-oracle
-
-# Graphics
---global imacss
---global svgo
---global tmi
-
-# Assets
---global grunt-cli
---global broccoli-cli
---global uncss
-
-# Testing
---global pageres
-
-# Metrics
---global wopr
-
-# Utilities
---global hget
+--global bower
+--global yo
+--global node-sass
+--global node-bourbon
+--global node-neat
+--global gulp
+--global gulp-autoprefixer
+--global gulp-compass
+--global gulp-concat
+--global gulp-cssfmt
+--global gulp-livereload
+--global gulp-minify-css
+--global gulp-rename
+--global gulp-sass
+--global gulp-uglify
+--global gulp-watch
+--global grunt
+--global cssfmt
+--global normalize.css
+--global shipit-cli
+--global shipit-deploy
+--global shipit-db
+--global shipit-assets
+--global shipit-captain
